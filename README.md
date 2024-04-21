@@ -5,10 +5,10 @@ This is a simple chat server built with Node.js and Socket.io.
 ## Screenshot
 
 # Home Page
-(./home.png)
+(/home.png)
 
 # Chat Page
-(./chat.png)
+(/chat.png)
 
 
 

@@ -1,4 +1,4 @@
-# TechDome Chat Server
+# Chat Room Server
 
 This is a simple chat server built with Node.js and Socket.io.
 
